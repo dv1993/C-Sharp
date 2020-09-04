@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\C-Sharp\\Uppgift1\\Korrekt\\Korrekt.csproj": {}
+    "C:\\Users\\vah_d\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Uppgift1\\Korrekt\\Korrekt.csproj": {}
   },
   "projects": {
-    "C:\\repos\\C-Sharp\\Uppgift1\\Korrekt\\Korrekt.csproj": {
+    "C:\\Users\\vah_d\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Uppgift1\\Korrekt\\Korrekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\C-Sharp\\Uppgift1\\Korrekt\\Korrekt.csproj",
+        "projectUniqueName": "C:\\Users\\vah_d\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Uppgift1\\Korrekt\\Korrekt.csproj",
         "projectName": "Korrekt",
-        "projectPath": "C:\\repos\\C-Sharp\\Uppgift1\\Korrekt\\Korrekt.csproj",
-        "packagesPath": "C:\\Users\\enikl\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\C-Sharp\\Uppgift1\\Korrekt\\obj\\",
+        "projectPath": "C:\\Users\\vah_d\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Uppgift1\\Korrekt\\Korrekt.csproj",
+        "packagesPath": "C:\\Users\\vah_d\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vah_d\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Uppgift1\\Korrekt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\enikl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vah_d\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

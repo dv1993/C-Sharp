@@ -29,7 +29,7 @@ namespace Felande
             Console.WriteLine("Tryck på en knapp för att fortsätta...");
             Console.ReadKey();
 
-            bool sant = false;
+            bool sant = true;
 
             DateTime datum = DateaTime.Now;
 
